@@ -1,4 +1,4 @@
-# project-3 SYRIATEL CUSTOMER CHURN
+# Phase 3
 
 # **NAME**;   Aggrey Musonye Timbwa
 
@@ -7,6 +7,9 @@
 # **PROJECT PERIOD**; 22/08/2024 to 30/08/2024
 
 # **STUDENT PACE**; part_time classes
+
+
+
 
 # **INTRODUCTION**
 
