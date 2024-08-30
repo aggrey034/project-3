@@ -1,12 +1,12 @@
-# Phase 3
+ Phase 3
 
-# **NAME**;   Aggrey Musonye Timbwa
+**NAME**;       Aggrey Musonye Timbwa
 
-# **DATA BEING ANALYSING**;  SyriaTel Customer Churn
+ **DATA BEING ANALYSING**;     SyriaTel Customer Churn
 
-# **PROJECT PERIOD**; 22/08/2024 to 30/08/2024
+ **PROJECT PERIOD**;    22/08/2024 to 30/08/2024
 
-# **STUDENT PACE**; part_time classes
+ **STUDENT PACE**;    part_time classes
 
 
 
