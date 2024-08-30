@@ -24,6 +24,7 @@ SyriaTel faces significant revenue losses when customers discontinue their servi
 3. Evaluate the model
 4. Aid in decision making 
 
+
 **DATA DESCRIPTION**
 
 The data set is named sim_usage.csv and contains the following sections; 
@@ -60,9 +61,11 @@ This project will follow the following steps
 4. Evaluation ; assesing the model performance
 
 **Tools and Libraries Used**
+
 The project utilizes a range of tools and libraries for data analysis and machine learning. Here are the key technologies used:
 
-Data Analysis and Manipulation:
+Data Analysis and Manipulation Tools and libraries:
+
 Pandas
 NumPy
 Visualization:
@@ -71,6 +74,7 @@ Machine Learning:
 Scikit-learn
 
 **Conclusion and Recommendations**
+
 It is not easily predictable if someone will churn or not from the given set of data
 However, factors such as total day minutes, total day charge and total eve charge likely influence the ability of one to stop using the service provider.
 
