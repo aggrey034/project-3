@@ -1,5 +1,5 @@
 # project-3 SYRIATEL CUSTOMER CHURN
-INTRODUCTION
+
 # **NAME**;   Aggrey Musonye Timbwa
 
 # **DATA BEING ANALYSING**;  SyriaTel Customer Churn
