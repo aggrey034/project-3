@@ -35,3 +35,4 @@ This project will follow the following steps
 2. Data preparation; involves cleaning and handling outlier
 3. Modelling; bulding predictive models
 4. Evaluation ; assesing the model performance
+
